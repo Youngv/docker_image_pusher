@@ -1,3 +1,14 @@
+NOTE: This is a fork of the [docker_image_pusher](https://github.com/tech-shrimp/docker_image_pusher).
+
+USAGE: 
+> docker pull registry.cn-guangzhou.aliyuncs.com/aliyun-docker-proxy/\<image-name\>:latest
+>
+> docker tag registry.cn-guangzhou.aliyuncs.com/aliyun-docker-proxy/\<image-name\>:latest \<image-name\>:latest
+> 
+> docker rmi registry.cn-guangzhou.aliyuncs.com/aliyun-docker-proxy/\<image-name\>:latest
+
+------------------------
+
 # Docker Images Pusher
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
