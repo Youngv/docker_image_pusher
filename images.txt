@@ -1,1 +1,2 @@
 yidadaa/chatgpt-next-web:latest
+ghcr.io/sillytavern/sillytavern:latest
