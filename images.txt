@@ -1,6 +1,6 @@
-yidadaa/chatgpt-next-web:latest
-ghcr.io/sillytavern/sillytavern:latest
-ghcr.io/librespeed/speedtest:latest
-adguard/adguardhome:latest
-nattertool/natter:latest
-nattertool/check:latest
+# yidadaa/chatgpt-next-web:latest
+# ghcr.io/sillytavern/sillytavern:latest
+# ghcr.io/librespeed/speedtest:latest
+# adguard/adguardhome:latest
+# nattertool/natter:latest
+# nattertool/check:latest
