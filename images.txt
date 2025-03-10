@@ -4,3 +4,4 @@
 # adguard/adguardhome:latest
 # nattertool/natter:latest
 # nattertool/check:latest
+snowdreamtech/frps:0.61.2
