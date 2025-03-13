@@ -4,4 +4,6 @@
 # adguard/adguardhome:latest
 # nattertool/natter:latest
 # nattertool/check:latest
---platform linux/arm64 snowdreamtech/frpc:0.61.2
+# snowdreamtech/frps:0.61.2
+# --platform linux/arm64 snowdreamtech/frpc:0.61.2
+# arm64v8/alpine:3.12
