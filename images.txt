@@ -7,4 +7,5 @@
 # snowdreamtech/frps:0.61.2
 # --platform linux/arm64 snowdreamtech/frpc:0.61.2
 # --platform linux/arm64 alpine:3.12
-rclone/rclone:latest
+# rclone/rclone:latest
+ghcr.io/open-webui/open-webui:main
