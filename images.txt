@@ -9,5 +9,6 @@
 # --platform linux/arm64 alpine:3.12
 # rclone/rclone:latest
 # ghcr.io/open-webui/open-webui:main
-nginx:1.28.0
-adguard/adguardhome:v0.107.71
+# nginx:1.28.0
+# adguard/adguardhome:v0.107.71
+metacubex/mihomo:v1.19.17
