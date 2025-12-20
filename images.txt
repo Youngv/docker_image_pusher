@@ -11,4 +11,5 @@
 # ghcr.io/open-webui/open-webui:main
 # nginx:1.28.0
 # adguard/adguardhome:v0.107.71
-metacubex/mihomo:v1.19.17
+# metacubex/mihomo:v1.19.17
+swxk521/udp2raw:20230206.0
